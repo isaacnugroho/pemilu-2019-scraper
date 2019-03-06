@@ -16,18 +16,3 @@ for p in $kab; do
   curl -k https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/2?_=$(date +%s) > result/geo/dapil_kabupaten_geojson_$p.json
   curl -k https://infopemilu.kpu.go.id/pileg2019/api/dapil/$p/2?_=$(date +%s) > result/dapil/dapil_kabupaten_wilayah_$p.json
 done
-
-caleg=$(jq '.[].dapil[].id' result/dapil/dapil_dpr_wilayah_*.json)
-for c in $caleg; do
-  curl -k https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/$c/calonDct.json?_=$(date +%s) > result/caleg/dapil_dpr_caleg_$c.json
-done
-
-caleg=$(jq '.[].dapil[].id' result/dapil/dapil_provinsi_wilayah_*.json)
-for c in $caleg; do
-  curl -k https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/$c/calonDct.json?_=$(date +%s) > result/caleg/dapil_provinsi_caleg_$c.json
-done
-
-caleg=$(jq '.[].dapil[].id' result/dapil/dapil_kabupaten_wilayah_*.json)
-for c in $caleg; do
-  curl -k https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/$c/calonDct.json?_=$(date +%s) > result/caleg/dapil_kabupaten_caleg_$c.json
-done
