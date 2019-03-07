@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta http-equiv="refresh" content="1; url=http://www.kpu.go.id/" />
+    <!-- Add Your favicon here -->
+    <!--<link rel="icon" href="img/favicon.ico">-->
+
+    <title>KPU - Portal Publikasi Pemilihan Kepala Daerah 2018</title>
+
+    <style>
+        .center {text-align: center; margin-left: auto; margin-right: auto; margin-bottom: auto; margin-top: auto;}
+        body{
+            font-family: 'Open Sans', helvetica, arial, sans-serif;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+        .container {
+            padding-right: 15px;
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        @media (min-width: 768px) {
+            .container {
+                width: 750px;
+            }
+        }
+        @media (min-width: 992px) {
+            .container {
+                width: 970px;
+            }
+        }
+        @media (min-width: 1200px) {
+            .container {
+                width: 1170px;
+            }
+        }
+        .row {
+            margin-right: -15px;
+            margin-left: -15px;
+        }
+        .col-md-12 {
+            position: relative;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+        @media (min-width: 992px) {
+            .col-md-12 {
+                float: left;
+                width: 100%;
+            }
+        }
+        .jumbotron {
+            padding-top: 30px;
+            padding-bottom: 30px;
+            margin-bottom: 30px;
+            color: inherit;
+            background-color: #eee;
+        }
+        .jumbotron h1,
+        .jumbotron .h1 {
+            color: inherit;
+        }
+        .jumbotron p {
+            margin-bottom: 15px;
+            font-size: 21px;
+            font-weight: 200;
+        }
+        .jumbotron > hr {
+            border-top-color: #d5d5d5;
+        }
+        .container .jumbotron,
+        .container-fluid .jumbotron {
+            border-radius: 6px;
+        }
+        .jumbotron .container {
+            max-width: 100%;
+        }
+        @media screen and (min-width: 768px) {
+            .jumbotron {
+                padding-top: 48px;
+                padding-bottom: 48px;
+            }
+            .container .jumbotron,
+            .container-fluid .jumbotron {
+                padding-right: 60px;
+                padding-left: 60px;
+            }
+            .jumbotron h1,
+            .jumbotron .h1 {
+                font-size: 63px;
+            }
+        }
+        .btn {
+            display: inline-block;
+            padding: 6px 12px;
+            margin-bottom: 0;
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 1.42857143;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            -ms-touch-action: manipulation;
+            touch-action: manipulation;
+            cursor: pointer;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            background-image: none;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+        .btn:focus,
+        .btn:active:focus,
+        .btn.active:focus,
+        .btn.focus,
+        .btn:active.focus,
+        .btn.active.focus {
+            outline: thin dotted;
+            outline: 5px auto -webkit-focus-ring-color;
+            outline-offset: -2px;
+        }
+        .btn:hover,
+        .btn:focus,
+        .btn.focus {
+            color: #333;
+            text-decoration: none;
+        }
+        .btn:active,
+        .btn.active {
+            background-image: none;
+            outline: 0;
+            -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+            box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+        }
+        .btn.disabled,
+        .btn[disabled],
+        fieldset[disabled] .btn {
+            cursor: not-allowed;
+            filter: alpha(opacity=65);
+            -webkit-box-shadow: none;
+            box-shadow: none;
+            opacity: .65;
+        }
+        .btn-primary.btn-outline {
+            color: #ff9933;}
+
+        .btn-primary {
+            background-color: #ff9933;  border-color: #ff9933;}
+
+        .btn-primary:hover,
+        .btn-primary:focus,
+        .btn-primary:active,
+        .btn-primary.active,
+        .open .dropdown-toggle.btn-primary,
+        .btn-primary:active:focus,
+        .btn-primary:active:hover,
+        .btn-primary.active:hover,
+        .btn-primary.active:focus {
+            background-color: #dc6400;
+            border-color: #dc6400;
+        }
+    </style>
+
+</head>
+<body id="page-top">
+<div class="wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="jumbotron center">
+                    <h1>Server sedang sibuk, coba beberapa saat lagi.</h1>
+                    <br />
+                    <p>Anda bisa menggunakan tombol <b>Back</b> pada browser untuk kembali ke halaman sebelumnya</p>
+                    <p><b>Atau klik link di bawah untuk kembali ke Halaman Beranda</b></p>
+                    <a href="/" class="btn btn-primary">Ke Beranda</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>[{"namaKab":"JAKARTA TIMUR","originalFilename":"46.jpg","namaPartai":"PARTAI GERAKAN INDONESIA RAYA","id":88012,"noUrut":1,"nama":"RAMSON SIAGIAN","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA SELATAN","originalFilename":"JATENG X DAIRUL.jpg","namaPartai":"PARTAI GERAKAN INDONESIA RAYA","id":91812,"noUrut":2,"nama":"H. DAIRUL, SE., M.Si","stringJenisKelamin":"Laki-Laki"},{"namaKab":"TEGAL","originalFilename":"JATENG X NOVIAWATI.jpg","namaPartai":"PARTAI GERAKAN INDONESIA RAYA","id":151123,"noUrut":3,"nama":"R. NOVIAWATI","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA SELATAN","originalFilename":"NIRWAN FOTO_0001.jpg","namaPartai":"PARTAI GERAKAN INDONESIA RAYA","id":294339,"noUrut":4,"nama":"NIRWAN, SE","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA SELATAN","originalFilename":"FOTO IIS LATIFAH.jpg","namaPartai":"PARTAI GERAKAN INDONESIA RAYA","id":294265,"noUrut":5,"nama":"IR. IIS LATIFAH","stringJenisKelamin":"Perempuan"},{"namaKab":"PEMALANG","originalFilename":"JATENG X RATIH.jpg","namaPartai":"PARTAI GERAKAN INDONESIA RAYA","id":152360,"noUrut":6,"nama":"NIKEN RATIH","stringJenisKelamin":"Perempuan"},{"namaKab":"BOJONEGORO","originalFilename":"FOTO BARU KHUMAIDI_20180727_0001.jpg","namaPartai":"PARTAI GERAKAN INDONESIA RAYA","id":257204,"noUrut":7,"nama":"MOH. KHUMAIDI, SH., MH","stringJenisKelamin":"Laki-Laki"}][{"namaKab":"JAKARTA UTARA","originalFilename":"FOTO.JPG","namaPartai":"PARTAI DEMOKRASI INDONESIA PERJUANGAN","id":20910,"noUrut":1,"nama":"Prof. Dr. HENDRAWAN SUPRATIKNO","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA SEMARANG","originalFilename":"FOTO.jpg","namaPartai":"PARTAI DEMOKRASI INDONESIA PERJUANGAN","id":78512,"noUrut":2,"nama":"DEDE INDRA PERMANA, S.H.","stringJenisKelamin":"Laki-Laki"},{"namaKab":"TEMANGGUNG","originalFilename":"FOTO.jpg","namaPartai":"PARTAI DEMOKRASI INDONESIA PERJUANGAN","id":14028,"noUrut":3,"nama":"SITI FIKRIYAH KHURIYATI, S.H., M.Si","stringJenisKelamin":"Perempuan"},{"namaKab":"PEMALANG","originalFilename":"FOTO.jpg","namaPartai":"PARTAI DEMOKRASI INDONESIA PERJUANGAN","id":283379,"noUrut":4,"nama":"SIKMA REJIK MARTINO","stringJenisKelamin":"Laki-Laki"},{"namaKab":"BANTUL","originalFilename":"IMG-20180716-WA0021.jpg","namaPartai":"PARTAI DEMOKRASI INDONESIA PERJUANGAN","id":30739,"noUrut":5,"nama":"dr. PRIH BUDI ARYATMOKO","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA DEPOK","originalFilename":"FOTO.jpg","namaPartai":"PARTAI DEMOKRASI INDONESIA PERJUANGAN","id":283587,"noUrut":6,"nama":"PUJI SRI HASTUTI","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA PUSAT","originalFilename":"FOTO.jpg","namaPartai":"PARTAI DEMOKRASI INDONESIA PERJUANGAN","id":296557,"noUrut":7,"nama":"ELLEN TAROREH","stringJenisKelamin":"Perempuan"}][{"namaKab":"JAKARTA SELATAN","originalFilename":"Pas Photo Dengan Logo Golkar_4X6.jpg","namaPartai":"Partai Golongan Karya","id":241276,"noUrut":1,"nama":"Ir. HERU DEWANTO, M.Sc. (Eng), IPU","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA SELATAN","originalFilename":"MARLINDA IRWANTI_3174030260090002_PASPHOTO 4X6.jpeg","namaPartai":"Partai Golongan Karya","id":151412,"noUrut":2,"nama":"Dr. MARLINDA IRWANTI, S.E., M.SI.","stringJenisKelamin":"Perempuan"},{"namaKab":"PEMALANG","originalFilename":"ANDRIYANTO JOHAN SYAH_3327080407380013_PASFOTO 4X6.jpg","namaPartai":"Partai Golongan Karya","id":242818,"noUrut":3,"nama":"ANDRIYANTO JOHAN SYAH, S.T., M.M","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA PALEMBANG","originalFilename":"DONI AKBAR_1671040205450007_PASFOTO 4X6.jpg","namaPartai":"Partai Golongan Karya","id":240785,"noUrut":4,"nama":"DONI AKBAR, S.E","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA DEPOK","originalFilename":"FANNY FATWATI PUTRI_ 3276100325370007_PASFOTO 4X6.jpg","namaPartai":"Partai Golongan Karya","id":240882,"noUrut":5,"nama":"FANNY FATWATI PUTRI, S.H","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA TIMUR","originalFilename":"SARAH SYAFITRI_3175010260720054_PAS PHOTO.jpg","namaPartai":"Partai Golongan Karya","id":296046,"noUrut":6,"nama":"SARAH SYAFITRI, S.Ikom","stringJenisKelamin":"Perempuan"},{"namaKab":"BOGOR","originalFilename":"JUNAIDI ELVIS_3201020261590003_PASFOTO 4X6.jpg","namaPartai":"Partai Golongan Karya","id":241814,"noUrut":7,"nama":"Ir. JUNAIDI ELVIS, M. Hum","stringJenisKelamin":"Laki-Laki"}][{"namaKab":"PEKALONGAN","originalFilename":"amat_antono.jpg","namaPartai":"Partai NasDem","id":98885,"noUrut":1,"nama":"AMAT ANTONO","stringJenisKelamin":"Laki-Laki"},{"namaKab":"PEMALANG","originalFilename":"dedy_ragil.jpg","namaPartai":"Partai NasDem","id":171946,"noUrut":2,"nama":"DEDY RAGIL SUTOPO, S.Pd.","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA TANGERANG SELATAN","originalFilename":"trini.jpg","namaPartai":"Partai NasDem","id":94105,"noUrut":3,"nama":"DRA TRINI SUMARTINI","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA SELATAN","originalFilename":"jonathan.jpeg","namaPartai":"Partai NasDem","id":81082,"noUrut":4,"nama":"JONATHAN FRIZZY ARCKLAUSS SIMANJUNTAK","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA UTARA","originalFilename":"kristina.jpg","namaPartai":"Partai NasDem","id":94301,"noUrut":5,"nama":"KRISTINA ISWANDARI, SH","stringJenisKelamin":"Perempuan"},{"namaKab":"PEMALANG","originalFilename":"foto.jpg","namaPartai":"Partai NasDem","id":180987,"noUrut":6,"nama":"NANA DIANA","stringJenisKelamin":"Perempuan"},{"namaKab":"PEKALONGAN","originalFilename":"iman dwi.jpg","namaPartai":"Partai NasDem","id":81203,"noUrut":7,"nama":"IMAN DWI SAPUTRO, SH","stringJenisKelamin":"Laki-Laki"}][][{"namaKab":"BOGOR","originalFilename":"Screenshot_3.JPG","namaPartai":"PARTAI BERKARYA","id":301122,"noUrut":1,"nama":"SUMIHARJO P","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA PEKALONGAN","originalFilename":"Screenshot_3.jpg","namaPartai":"PARTAI BERKARYA","id":270266,"noUrut":2,"nama":"Drs. SUPRAYITNO","stringJenisKelamin":"Laki-Laki"},{"namaKab":"PEMALANG","originalFilename":"Screenshot_1 (4).JPG","namaPartai":"PARTAI BERKARYA","id":302473,"noUrut":3,"nama":"ENDANG PURWANINGSIH","stringJenisKelamin":"Perempuan"},{"namaKab":"PEMALANG","originalFilename":"Screenshot_1 (3).JPG","namaPartai":"PARTAI BERKARYA","id":302475,"noUrut":4,"nama":"IWAN SETIAWAN","stringJenisKelamin":"Laki-Laki"},{"namaKab":"PEMALANG","originalFilename":"Screenshot_1 (5).JPG","namaPartai":"PARTAI BERKARYA","id":302477,"noUrut":5,"nama":"NUR CHASANAH","stringJenisKelamin":"Perempuan"},{"namaKab":"PEKALONGAN","originalFilename":"Screenshot_4 (3).jpg","namaPartai":"PARTAI BERKARYA","id":266784,"noUrut":6,"nama":"DEWI KHOTIJAH","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA TIMUR","originalFilename":"Screenshot_3.jpg","namaPartai":"PARTAI BERKARYA","id":130309,"noUrut":7,"nama":"SUYANTO","stringJenisKelamin":"Laki-Laki"}][{"namaKab":"KOTA BEKASI","originalFilename":"syamsalis jateng 10.jpeg","namaPartai":"Partai Keadilan Sejahtera","id":58251,"noUrut":1,"nama":"Drs. H. SYAMSALIS","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA PEKALONGAN","originalFilename":"idris jateng 10.jpeg","namaPartai":"Partai Keadilan Sejahtera","id":198755,"noUrut":2,"nama":"H. IDRIS SATRIA BUDI, Ak. MBA","stringJenisKelamin":"Laki-Laki"},{"namaKab":"BATANG","originalFilename":"fajar jateng 10.jpeg","namaPartai":"Partai Keadilan Sejahtera","id":200005,"noUrut":3,"nama":"FAJAR MARTANINGSIH, S. Si., A. Pt","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA TIMUR","originalFilename":"foto ahmad hanafi_1-001.jpg","namaPartai":"Partai Keadilan Sejahtera","id":58155,"noUrut":4,"nama":"AHMAD HANAFI, MBA","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA TANGERANG SELATAN","originalFilename":"bayu jateng 10.jpeg","namaPartai":"Partai Keadilan Sejahtera","id":204866,"noUrut":5,"nama":"BAYU WIJANARKO, S.E","stringJenisKelamin":"Laki-Laki"},{"namaKab":"PEMALANG","originalFilename":"siti jateng 10.jpeg","namaPartai":"Partai Keadilan Sejahtera","id":193777,"noUrut":6,"nama":"SITI MURTAFIAH, S. Pd","stringJenisKelamin":"Perempuan"},{"namaKab":"PEKALONGAN","originalFilename":"maslikah.jpeg","namaPartai":"Partai Keadilan Sejahtera","id":197641,"noUrut":7,"nama":"MASLIKHAH, S.Pd","stringJenisKelamin":"Perempuan"}][{"namaKab":"KOTA TANGERANG SELATAN","originalFilename":"PHOTO_001.jpg","namaPartai":"Persatuan Indonesia","id":91374,"noUrut":1,"nama":"IMAM BUKHORI","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA BEKASI","originalFilename":"PHOTO_001.jpg","namaPartai":"Persatuan Indonesia","id":120914,"noUrut":2,"nama":"Drs. MANAHAN DAULAY","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA UTARA","originalFilename":"PHOTO_001.jpg","namaPartai":"Persatuan Indonesia","id":120545,"noUrut":3,"nama":"SULISTYA, S.E","stringJenisKelamin":"Perempuan"},{"namaKab":"KOTA PEKALONGAN","originalFilename":"FOTO.JPG","namaPartai":"Persatuan Indonesia","id":43189,"noUrut":4,"nama":"DAVID SANTOSA, SE","stringJenisKelamin":"Laki-Laki"},{"namaKab":"BATANG","originalFilename":"foto_001.jpg","namaPartai":"Persatuan Indonesia","id":112616,"noUrut":5,"nama":"DESSI TRI POSPITOSARI, SH","stringJenisKelamin":"Perempuan"},{"namaKab":"KOTA DEPOK","originalFilename":"FOTO_001.jpg","namaPartai":"Persatuan Indonesia","id":215393,"noUrut":6,"nama":"KRISNAYANTO","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA TANGERANG SELATAN","originalFilename":"PHOTO_001.jpg","namaPartai":"Persatuan Indonesia","id":92259,"noUrut":7,"nama":"SRI WIGATI","stringJenisKelamin":"Perempuan"}][{"namaKab":"JAKARTA PUSAT","originalFilename":"H. ARSUL SANI, SH. M.Si.jpg","namaPartai":"Partai Persatuan pembangunan","id":262673,"noUrut":1,"nama":"H. ARSUL SANI S.H, M.Si","stringJenisKelamin":"Laki-Laki"},{"namaKab":"DEMAK","originalFilename":"MUNAWAROH, DRA, HAJJAH.jpg","namaPartai":"Partai Persatuan pembangunan","id":275447,"noUrut":2,"nama":"MUNAWAROH, DRA, HAJJAH","stringJenisKelamin":"Perempuan"},{"namaKab":"KOTA SEMARANG","originalFilename":"MOCHAMAD SYAHIR, S.H., M.H.jpg","namaPartai":"Partai Persatuan pembangunan","id":150913,"noUrut":3,"nama":"MOCHAMAD SYAHIR, SH, MH","stringJenisKelamin":"Laki-Laki"},{"namaKab":"PEMALANG","originalFilename":"PRAYITNO, S.E..jpg","namaPartai":"Partai Persatuan pembangunan","id":95344,"noUrut":4,"nama":"PRAYITNO, S.E.","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA UTARA","originalFilename":"NURAIDA KHUMAIRAH.jpg","namaPartai":"Partai Persatuan pembangunan","id":280298,"noUrut":5,"nama":"NURAIDA KHUMAIRAH","stringJenisKelamin":"Perempuan"},{"namaKab":"PEMALANG","originalFilename":"ROSNENI.jpg","namaPartai":"Partai Persatuan pembangunan","id":300548,"noUrut":6,"nama":"ROSNENI","stringJenisKelamin":"Perempuan"},{"namaKab":"KOTA SURAKARTA","originalFilename":"MUH ABDI MUNIF.jpg","namaPartai":"Partai Persatuan pembangunan","id":96115,"noUrut":7,"nama":"MUH ABDI MUNIF","stringJenisKelamin":"Laki-Laki"}][{"namaKab":"BATANG","originalFilename":"FOTO.JPG","namaPartai":"Partai Solidaritas Indonesia","id":70157,"noUrut":1,"nama":"PUTRANTO HW","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA PUSAT","originalFilename":"WhatsApp Image 2018-07-12 at 15.20.23.jpeg","namaPartai":"Partai Solidaritas Indonesia","id":133093,"noUrut":2,"nama":"IRWANDA SYARIF HAMDANI","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA SELATAN","originalFilename":"FOTO.jpg","namaPartai":"Partai Solidaritas Indonesia","id":238781,"noUrut":3,"nama":"SHYLLIA SAL SABILLA","stringJenisKelamin":"Perempuan"},{"namaKab":"PEMALANG","originalFilename":"foto.JPG","namaPartai":"Partai Solidaritas Indonesia","id":157001,"noUrut":4,"nama":"SELAMET, SE, M.Si","stringJenisKelamin":"Laki-Laki"},{"namaKab":"BATANG","originalFilename":"nur khasan.JPG","namaPartai":"Partai Solidaritas Indonesia","id":180100,"noUrut":5,"nama":"NUR KHASAN","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA DEPOK","originalFilename":"poto.jpg","namaPartai":"Partai Solidaritas Indonesia","id":161156,"noUrut":6,"nama":"AYU HERDIANI TUMBELAKA","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA SELATAN","originalFilename":"FOTO- SELVI.jpg","namaPartai":"Partai Solidaritas Indonesia","id":295821,"noUrut":7,"nama":"SELVI","stringJenisKelamin":"Perempuan"}][{"namaKab":"KOTA BEKASI","originalFilename":"02.jpeg","namaPartai":"PARTAI AMANAT NASIONAL","id":93667,"noUrut":1,"nama":"NASRULLAH, M.Si","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA PEKALONGAN","originalFilename":"HN.jpg","namaPartai":"PARTAI AMANAT NASIONAL","id":59811,"noUrut":2,"nama":"Drs. H. A. HAKAM NAJA, M.Si","stringJenisKelamin":"Laki-Laki"},{"namaKab":"PEMALANG","originalFilename":"IMG-20180723-WA0030ok.jpg","namaPartai":"PARTAI AMANAT NASIONAL","id":233419,"noUrut":3,"nama":"SETYASIH PRIHERLINA","stringJenisKelamin":"Perempuan"},{"namaKab":"KOTA PEKALONGAN","originalFilename":"WhatsApp Image 2018-07-25 at 10.56.31.jpeg","namaPartai":"PARTAI AMANAT NASIONAL","id":168263,"noUrut":4,"nama":"MUHAMMAD ABU THOLIB","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA TIMUR","originalFilename":"01.jpeg","namaPartai":"PARTAI AMANAT NASIONAL","id":185161,"noUrut":5,"nama":"M. HARIMAN BAHTIAR, M.Si","stringJenisKelamin":"Laki-Laki"},{"namaKab":"BATANG","originalFilename":"JATENG 10.jpg","namaPartai":"PARTAI AMANAT NASIONAL","id":203924,"noUrut":6,"nama":"YUNITA GUSDIYANTI","stringJenisKelamin":"Perempuan"},{"namaKab":"BANYUMAS","originalFilename":"INDRI.jpeg","namaPartai":"PARTAI AMANAT NASIONAL","id":253902,"noUrut":7,"nama":"INDRI KRISNAWATI","stringJenisKelamin":"Perempuan"}][{"namaKab":"JAKARTA TIMUR","originalFilename":"PURNAWAWANSYAH.PNG","namaPartai":"Partai Hati Nurani Rakyat","id":256642,"noUrut":1,"nama":"PURNAMAWANSYAH, S.Pd","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA SELATAN","originalFilename":"TEDY YUNIARNO.PNG","namaPartai":"Partai Hati Nurani Rakyat","id":256451,"noUrut":2,"nama":"TEDDY YUNIARNO, S.IP","stringJenisKelamin":"Laki-Laki"},{"namaKab":"BEKASI","originalFilename":"13_3.PNG","namaPartai":"Partai Hati Nurani Rakyat","id":302773,"noUrut":3,"nama":"Dra. SITI ZULAIKHA","stringJenisKelamin":"Perempuan"},{"namaKab":"KOTA JAMBI","originalFilename":"SUYATNO.PNG","namaPartai":"Partai Hati Nurani Rakyat","id":257195,"noUrut":4,"nama":"SUYATNO, S.Pd","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA TANGERANG SELATAN","originalFilename":"13_5.PNG","namaPartai":"Partai Hati Nurani Rakyat","id":302775,"noUrut":5,"nama":"LIDIA ARIANTI, S.E","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA TIMUR","originalFilename":"THORIQ FIRDAUS.PNG","namaPartai":"Partai Hati Nurani Rakyat","id":256494,"noUrut":6,"nama":"THORIQ FIRDAUS, S.E","stringJenisKelamin":"Laki-Laki"}][{"namaKab":"KOTA PALEMBANG","originalFilename":"NINA AGUSTIN.jpg","namaPartai":"PARTAI DEMOKRAT","id":157634,"noUrut":1,"nama":"NINA AGUSTIN","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA TIMUR","originalFilename":"WIRANTI SAPUTRI, SE.jpg","namaPartai":"PARTAI DEMOKRAT","id":157819,"noUrut":2,"nama":"WIRANTI SAPUTRI, SE","stringJenisKelamin":"Perempuan"},{"namaKab":"PEKALONGAN","originalFilename":"H. KARNAWI IKSAN, S.IP.jpg","namaPartai":"PARTAI DEMOKRAT","id":170979,"noUrut":3,"nama":"H. KARNAWI IKSAN, S.IP","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA TIMUR","originalFilename":"Putri Permata Sari, SE.jpg","namaPartai":"PARTAI DEMOKRAT","id":170948,"noUrut":4,"nama":"PUTRI PERMATA SARI, SE","stringJenisKelamin":"Perempuan"},{"namaKab":"KOTA TANGERANG SELATAN","originalFilename":"ASHA MUHAMAD.jpg","namaPartai":"PARTAI DEMOKRAT","id":202945,"noUrut":5,"nama":"ASHA MUHAMAD","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA BARAT","originalFilename":"Bella Kharisma.jpg","namaPartai":"PARTAI DEMOKRAT","id":258071,"noUrut":6,"nama":"BELLA KHARISMA","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA TIMUR","originalFilename":"EVA OMPITA SORAYA.jpg","namaPartai":"PARTAI DEMOKRAT","id":258109,"noUrut":7,"nama":"EVA OMPITA SORAYA","stringJenisKelamin":"Perempuan"}][][][][][{"namaKab":"KOTA SEMARANG","originalFilename":"SKCK DECI ANA WATI.jpg","namaPartai":"Partai Bulan Bintang","id":273986,"noUrut":1,"nama":"DECI ANA WATI","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA TIMUR","originalFilename":"WhatsApp Image 2019-02-27 at 15.00.29.jpeg","namaPartai":"Partai Bulan Bintang","id":303576,"noUrut":2,"nama":"SUSANTY, SP","stringJenisKelamin":"Perempuan"},{"namaKab":"JAKARTA SELATAN","namaPartai":"Partai Bulan Bintang","id":304903,"noUrut":3,"nama":"UJANG SUPARMAN","stringJenisKelamin":"Laki-Laki"},{"namaKab":"KOTA DEPOK","namaPartai":"Partai Bulan Bintang","id":304908,"noUrut":4,"nama":"Ir. H. M. UMAR FATAH","stringJenisKelamin":"Laki-Laki"},{"namaKab":"BOGOR","namaPartai":"Partai Bulan Bintang","id":304910,"noUrut":5,"nama":"SUTAN NASOMAL, S.Pd.I","stringJenisKelamin":"Laki-Laki"},{"namaKab":"JAKARTA BARAT","namaPartai":"Partai Bulan Bintang","id":304927,"noUrut":6,"nama":"LUQMAN HAKIM","stringJenisKelamin":"Laki-Laki"}][{"namaKab":"JAKARTA SELATAN","originalFilename":"AJENG JATENG 10.jpg","namaPartai":"Partai Keadilan dan Persatuan Indonesia","id":297954,"noUrut":1,"nama":"AJENG TRISNA WAHID HANDAYANI","stringJenisKelamin":"Perempuan"}]
