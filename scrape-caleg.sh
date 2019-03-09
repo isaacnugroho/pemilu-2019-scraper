@@ -7,10 +7,9 @@ partai=$(jq '.[].nomorUrut' result/partai.json)
 
 
 getJson() {
-  # rm -f tmp/temp_$$ 2>/dev/null
   if curl -k "$1" -o /tmp/temp_$$; then
-    if [[ -e tmp/temp_$$ && $(jq -r '.[]' tmp/temp_$$ | wc -l) -gt 0 ]]; then
-      cat tmp/temp_$$ >> $2
+    if [[ -f /tmp/temp_$$ && $(jq -r '.[]' /tmp/temp_$$ | wc -l) -gt 0 ]]; then
+      cat /tmp/temp_$$ >> $2
     fi
   fi
 }
