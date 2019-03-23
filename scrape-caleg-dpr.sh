@@ -10,7 +10,7 @@ getJson() {
     if [[ -f /tmp/temp_$$ && $(jq -r '.[]' /tmp/temp_$$ | wc -l) -gt 0 ]]; then
       cat /tmp/temp_$$ >> $2
     else
-      echo $1 $2 >> scrape-caleg-kabupaten-error.txt
+      echo $1 $2 >> scrape-caleg-dpr-error.txt
     fi
   fi
 }
