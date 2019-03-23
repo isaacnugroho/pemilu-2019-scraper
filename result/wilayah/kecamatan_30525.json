@@ -1,1 +1,193 @@
-[{"id":30527,"idParent":30525,"namaWilayah":"BABAKAN JAYA","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30527,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"BABAKAN JAYA","kodeWilayah":"32.12.03.2002"},{"id":30535,"idParent":30525,"namaWilayah":"DRUNTEN KULON","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30535,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"DRUNTEN KULON","kodeWilayah":"32.12.03.2010"},{"id":30534,"idParent":30525,"namaWilayah":"DRUNTEN WETAN","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30534,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"DRUNTEN WETAN","kodeWilayah":"32.12.03.2009"},{"id":30528,"idParent":30525,"namaWilayah":"GABUS KULON","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30528,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"GABUS KULON","kodeWilayah":"32.12.03.2003"},{"id":30533,"idParent":30525,"namaWilayah":"GABUS WETAN","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30533,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"GABUS WETAN","kodeWilayah":"32.12.03.2008"},{"id":30530,"idParent":30525,"namaWilayah":"KEDOKAN GABUS","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30530,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"KEDOKAN GABUS","kodeWilayah":"32.12.03.2005"},{"id":30526,"idParent":30525,"namaWilayah":"KEDUNG DAWA","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30526,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"KEDUNG DAWA","kodeWilayah":"32.12.03.2001"},{"id":30532,"idParent":30525,"namaWilayah":"RANCAHAN","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30532,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"RANCAHAN","kodeWilayah":"32.12.03.2007"},{"id":30531,"idParent":30525,"namaWilayah":"RANCAMULYA","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30531,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"RANCAMULYA","kodeWilayah":"32.12.03.2006"},{"id":30529,"idParent":30525,"namaWilayah":"SEKAR MULYA","tingkatWilayah":4,"idPro":26141,"idKab":30503,"idKec":30525,"idKel":30529,"namaPro":"JAWA BARAT","namaKab":"INDRAMAYU","namaKec":"GABUSWETAN","namaKel":"SEKAR MULYA","kodeWilayah":"32.12.03.2004"}]
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta http-equiv="refresh" content="1; url=http://www.kpu.go.id/" />
+    <!-- Add Your favicon here -->
+    <!--<link rel="icon" href="img/favicon.ico">-->
+
+    <title>KPU - Portal Publikasi Pemilihan Kepala Daerah 2018</title>
+
+    <style>
+        .center {text-align: center; margin-left: auto; margin-right: auto; margin-bottom: auto; margin-top: auto;}
+        body{
+            font-family: 'Open Sans', helvetica, arial, sans-serif;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+        .container {
+            padding-right: 15px;
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        @media (min-width: 768px) {
+            .container {
+                width: 750px;
+            }
+        }
+        @media (min-width: 992px) {
+            .container {
+                width: 970px;
+            }
+        }
+        @media (min-width: 1200px) {
+            .container {
+                width: 1170px;
+            }
+        }
+        .row {
+            margin-right: -15px;
+            margin-left: -15px;
+        }
+        .col-md-12 {
+            position: relative;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+        @media (min-width: 992px) {
+            .col-md-12 {
+                float: left;
+                width: 100%;
+            }
+        }
+        .jumbotron {
+            padding-top: 30px;
+            padding-bottom: 30px;
+            margin-bottom: 30px;
+            color: inherit;
+            background-color: #eee;
+        }
+        .jumbotron h1,
+        .jumbotron .h1 {
+            color: inherit;
+        }
+        .jumbotron p {
+            margin-bottom: 15px;
+            font-size: 21px;
+            font-weight: 200;
+        }
+        .jumbotron > hr {
+            border-top-color: #d5d5d5;
+        }
+        .container .jumbotron,
+        .container-fluid .jumbotron {
+            border-radius: 6px;
+        }
+        .jumbotron .container {
+            max-width: 100%;
+        }
+        @media screen and (min-width: 768px) {
+            .jumbotron {
+                padding-top: 48px;
+                padding-bottom: 48px;
+            }
+            .container .jumbotron,
+            .container-fluid .jumbotron {
+                padding-right: 60px;
+                padding-left: 60px;
+            }
+            .jumbotron h1,
+            .jumbotron .h1 {
+                font-size: 63px;
+            }
+        }
+        .btn {
+            display: inline-block;
+            padding: 6px 12px;
+            margin-bottom: 0;
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 1.42857143;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            -ms-touch-action: manipulation;
+            touch-action: manipulation;
+            cursor: pointer;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            background-image: none;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+        .btn:focus,
+        .btn:active:focus,
+        .btn.active:focus,
+        .btn.focus,
+        .btn:active.focus,
+        .btn.active.focus {
+            outline: thin dotted;
+            outline: 5px auto -webkit-focus-ring-color;
+            outline-offset: -2px;
+        }
+        .btn:hover,
+        .btn:focus,
+        .btn.focus {
+            color: #333;
+            text-decoration: none;
+        }
+        .btn:active,
+        .btn.active {
+            background-image: none;
+            outline: 0;
+            -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+            box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+        }
+        .btn.disabled,
+        .btn[disabled],
+        fieldset[disabled] .btn {
+            cursor: not-allowed;
+            filter: alpha(opacity=65);
+            -webkit-box-shadow: none;
+            box-shadow: none;
+            opacity: .65;
+        }
+        .btn-primary.btn-outline {
+            color: #ff9933;}
+
+        .btn-primary {
+            background-color: #ff9933;  border-color: #ff9933;}
+
+        .btn-primary:hover,
+        .btn-primary:focus,
+        .btn-primary:active,
+        .btn-primary.active,
+        .open .dropdown-toggle.btn-primary,
+        .btn-primary:active:focus,
+        .btn-primary:active:hover,
+        .btn-primary.active:hover,
+        .btn-primary.active:focus {
+            background-color: #dc6400;
+            border-color: #dc6400;
+        }
+    </style>
+
+</head>
+<body id="page-top">
+<div class="wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="jumbotron center">
+                    <h1>Server sedang sibuk, coba beberapa saat lagi.</h1>
+                    <br />
+                    <p>Anda bisa menggunakan tombol <b>Back</b> pada browser untuk kembali ke halaman sebelumnya</p>
+                    <p><b>Atau klik link di bawah untuk kembali ke Halaman Beranda</b></p>
+                    <a href="/" class="btn btn-primary">Ke Beranda</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

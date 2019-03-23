@@ -1,1 +1,193 @@
-[{"id":24307,"idParent":24296,"namaWilayah":"BRAJA ASRI","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24307,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"BRAJA ASRI","kodeWilayah":"18.07.07.2011"},{"id":24301,"idParent":24296,"namaWilayah":"BRAJA CAKA","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24301,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"BRAJA CAKA","kodeWilayah":"18.07.07.2005"},{"id":24300,"idParent":24296,"namaWilayah":"BRAJA DEWA","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24300,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"BRAJA DEWA","kodeWilayah":"18.07.07.2004"},{"id":24299,"idParent":24296,"namaWilayah":"BRAJA EMAS","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24299,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"BRAJA EMAS","kodeWilayah":"18.07.07.2003"},{"id":24298,"idParent":24296,"namaWilayah":"BRAJA FAJAR","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24298,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"BRAJA FAJAR","kodeWilayah":"18.07.07.2002"},{"id":24297,"idParent":24296,"namaWilayah":"BRAJA SAKTI","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24297,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"BRAJA SAKTI","kodeWilayah":"18.07.07.2001"},{"id":24303,"idParent":24296,"namaWilayah":"JEPARA","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24303,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"JEPARA","kodeWilayah":"18.07.07.2007"},{"id":88041,"idParent":24296,"namaWilayah":"LABUHAN RATU BARU","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":88041,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"LABUHAN RATU BARU","kodeWilayah":"18.07.07.2016"},{"id":24311,"idParent":24296,"namaWilayah":"LABUHAN RATU DANAU","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24311,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"LABUHAN RATU DANAU","kodeWilayah":"18.07.07.2015"},{"id":24308,"idParent":24296,"namaWilayah":"LABUHAN RATU I","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24308,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"LABUHAN RATU I","kodeWilayah":"18.07.07.2012"},{"id":24306,"idParent":24296,"namaWilayah":"LABUHAN RATU II","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24306,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"LABUHAN RATU II","kodeWilayah":"18.07.07.2010"},{"id":24304,"idParent":24296,"namaWilayah":"SRI REJOSARI","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24304,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"SRI REJOSARI","kodeWilayah":"18.07.07.2008"},{"id":24302,"idParent":24296,"namaWilayah":"SRIWANGI","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24302,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"SRIWANGI","kodeWilayah":"18.07.07.2006"},{"id":24310,"idParent":24296,"namaWilayah":"SUMBER MARGA","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24310,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"SUMBER MARGA","kodeWilayah":"18.07.07.2014"},{"id":24305,"idParent":24296,"namaWilayah":"SUMBER REJO","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24305,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"SUMBER REJO","kodeWilayah":"18.07.07.2009"},{"id":24309,"idParent":24296,"namaWilayah":"SUMUR BANDUNG","tingkatWilayah":4,"idPro":22328,"idKab":24202,"idKec":24296,"idKel":24309,"namaPro":"LAMPUNG","namaKab":"LAMPUNG TIMUR","namaKec":"WAY JEPARA","namaKel":"SUMUR BANDUNG","kodeWilayah":"18.07.07.2013"}]
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta http-equiv="refresh" content="1; url=http://www.kpu.go.id/" />
+    <!-- Add Your favicon here -->
+    <!--<link rel="icon" href="img/favicon.ico">-->
+
+    <title>KPU - Portal Publikasi Pemilihan Kepala Daerah 2018</title>
+
+    <style>
+        .center {text-align: center; margin-left: auto; margin-right: auto; margin-bottom: auto; margin-top: auto;}
+        body{
+            font-family: 'Open Sans', helvetica, arial, sans-serif;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+        .container {
+            padding-right: 15px;
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        @media (min-width: 768px) {
+            .container {
+                width: 750px;
+            }
+        }
+        @media (min-width: 992px) {
+            .container {
+                width: 970px;
+            }
+        }
+        @media (min-width: 1200px) {
+            .container {
+                width: 1170px;
+            }
+        }
+        .row {
+            margin-right: -15px;
+            margin-left: -15px;
+        }
+        .col-md-12 {
+            position: relative;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+        @media (min-width: 992px) {
+            .col-md-12 {
+                float: left;
+                width: 100%;
+            }
+        }
+        .jumbotron {
+            padding-top: 30px;
+            padding-bottom: 30px;
+            margin-bottom: 30px;
+            color: inherit;
+            background-color: #eee;
+        }
+        .jumbotron h1,
+        .jumbotron .h1 {
+            color: inherit;
+        }
+        .jumbotron p {
+            margin-bottom: 15px;
+            font-size: 21px;
+            font-weight: 200;
+        }
+        .jumbotron > hr {
+            border-top-color: #d5d5d5;
+        }
+        .container .jumbotron,
+        .container-fluid .jumbotron {
+            border-radius: 6px;
+        }
+        .jumbotron .container {
+            max-width: 100%;
+        }
+        @media screen and (min-width: 768px) {
+            .jumbotron {
+                padding-top: 48px;
+                padding-bottom: 48px;
+            }
+            .container .jumbotron,
+            .container-fluid .jumbotron {
+                padding-right: 60px;
+                padding-left: 60px;
+            }
+            .jumbotron h1,
+            .jumbotron .h1 {
+                font-size: 63px;
+            }
+        }
+        .btn {
+            display: inline-block;
+            padding: 6px 12px;
+            margin-bottom: 0;
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 1.42857143;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            -ms-touch-action: manipulation;
+            touch-action: manipulation;
+            cursor: pointer;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            background-image: none;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+        .btn:focus,
+        .btn:active:focus,
+        .btn.active:focus,
+        .btn.focus,
+        .btn:active.focus,
+        .btn.active.focus {
+            outline: thin dotted;
+            outline: 5px auto -webkit-focus-ring-color;
+            outline-offset: -2px;
+        }
+        .btn:hover,
+        .btn:focus,
+        .btn.focus {
+            color: #333;
+            text-decoration: none;
+        }
+        .btn:active,
+        .btn.active {
+            background-image: none;
+            outline: 0;
+            -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+            box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+        }
+        .btn.disabled,
+        .btn[disabled],
+        fieldset[disabled] .btn {
+            cursor: not-allowed;
+            filter: alpha(opacity=65);
+            -webkit-box-shadow: none;
+            box-shadow: none;
+            opacity: .65;
+        }
+        .btn-primary.btn-outline {
+            color: #ff9933;}
+
+        .btn-primary {
+            background-color: #ff9933;  border-color: #ff9933;}
+
+        .btn-primary:hover,
+        .btn-primary:focus,
+        .btn-primary:active,
+        .btn-primary.active,
+        .open .dropdown-toggle.btn-primary,
+        .btn-primary:active:focus,
+        .btn-primary:active:hover,
+        .btn-primary.active:hover,
+        .btn-primary.active:focus {
+            background-color: #dc6400;
+            border-color: #dc6400;
+        }
+    </style>
+
+</head>
+<body id="page-top">
+<div class="wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="jumbotron center">
+                    <h1>Server sedang sibuk, coba beberapa saat lagi.</h1>
+                    <br />
+                    <p>Anda bisa menggunakan tombol <b>Back</b> pada browser untuk kembali ke halaman sebelumnya</p>
+                    <p><b>Atau klik link di bawah untuk kembali ke Halaman Beranda</b></p>
+                    <a href="/" class="btn btn-primary">Ke Beranda</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
