@@ -1,5 +1,5 @@
 #!/bin/sh
-
+set +x
 if [[ ! -e result/partai.json ]]; then
   curl -k https://infopemilu.kpu.go.id/pileg2019/pencalonan/allparpol.json?_=$(date +%s) > result/partai.json
 fi
