@@ -27,7 +27,7 @@ done
 dapil=$(jq '.[].dapil[].id' result/dapil/dapil_provinsi_wilayah_*.json)
 for d in $dapil; do
   for p in $partai; do
-    if [[ ! -f result/caleg/caleg_dpr_perubahan_$d_$p.json ]]; then
+    if [[ ! -f result/caleg/caleg_provinsi_perubahan_$d_$p.json ]]; then
       getJson https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/$d/$p/perubahan-dct?_=$(date +%s) result/caleg/caleg_provinsi_perubahan_$d_$p.json
     fi
   done
@@ -36,7 +36,7 @@ done
 dapil=$(jq '.[].dapil[].id' result/dapil/dapil_kabupaten_wilayah_*.json)
 for d in $dapil; do
   for p in $partai; do
-    if [[ ! -f result/caleg/caleg_dpr_perubahan_$d_$p.json ]]; then
+    if [[ ! -f result/caleg/caleg_kabupaten_perubahan_$d_$p.json ]]; then
       getJson https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/$d/$p/perubahan-dct?_=$(date +%s) result/caleg/caleg_kabupaten_perubahan_$d_$p.json
     fi
   done
