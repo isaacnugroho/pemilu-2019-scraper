@@ -18,7 +18,7 @@ getJson() {
 dapil=$(jq '.[].dapil[].id' result/dapil/dapil_kabupaten_wilayah_*.json)
 for d in $dapil; do
   for p in $partai; do
-    rm -f result/caleg/caleg_kabupaten_$d_$p.json 2>/dev/null
-    getJson https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/$d/$p/dct?_=$(date +%s) result/caleg/caleg_kabupaten_$d_$p.json
+    rm -f result/caleg/caleg_kabupaten_${d}_${p}.json 2>/dev/null
+    getJson https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/${d}/${p}/dct?_=$(date +%s) result/caleg/caleg_kabupaten_${d}_${p}.json
   done
 done

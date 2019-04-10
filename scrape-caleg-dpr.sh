@@ -6,6 +6,7 @@ fi
 partai=$(jq '.[].nomorUrut' result/partai.json)
 
 getJson() {
+  rm /tmp/temp_$$ 2>/dev/null
   if curl -k "$1" -o /tmp/temp_$$; then
     if [[ -f /tmp/temp_$$ && $(jq -r '.[]' /tmp/temp_$$ | wc -l) -gt 0 ]]; then
       cat /tmp/temp_$$ >> $2
@@ -18,7 +19,8 @@ getJson() {
 dapil=$(jq '.[].dapil[].id' result/dapil/dapil_dpr_wilayah_*.json)
 for d in $dapil; do
   for p in $partai; do
-    rm -f result/caleg/caleg_dpr_$d_$p.json 2>/dev/null
-    getJson https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/$d/$p/dct?_=$(date +%s) result/caleg/caleg_dpr_$d_$p.json
+    echo result/caleg/caleg_dpr_${d}_${p}.json
+    rm -f result/caleg/caleg_dpr_${d}_${p}.json 2>/dev/null
+    getJson https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/${d}/${p}/dct?_=$(date +%s) result/caleg/caleg_dpr_${d}_${p}.json
   done
 done
