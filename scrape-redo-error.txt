@@ -10,3 +10,5 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/86/13/dct?_=15
 https://infopemilu.kpu.go.id/pileg2019/api/dapil/8688/2?_=1554911002 result/dapil/dapil_kabupaten_wilayah_8688.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/87/2/dct?_=1554918193 result/caleg/caleg_provinsi_87_2.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/87/10/dct?_=1554918209 result/caleg/caleg_provinsi_87_10.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/87/13/dct?_=1554918216 result/caleg/caleg_provinsi_87_13.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/87/14/dct?_=1554918218 result/caleg/caleg_provinsi_87_14.json
