@@ -1,3 +1,0 @@
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/671/2?_=1554978059 result/dapil/dapil_wilayah_671.json
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/1207/2?_=1554978090 result/dapil/dapil_wilayah_1207.json
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/1492/2?_=1554978136 result/dapil/dapil_wilayah_1492.json
