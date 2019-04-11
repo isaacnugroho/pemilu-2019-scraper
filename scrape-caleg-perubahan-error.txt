@@ -2173,3 +2173,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/343/17/perubah
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/343/18/perubahan-dct?_=1554960918 result/caleg/caleg_provinsi_perubahan_343_18.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/343/19/perubahan-dct?_=1554960933 result/caleg/caleg_provinsi_perubahan_343_19.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/343/20/perubahan-dct?_=1554960938 result/caleg/caleg_provinsi_perubahan_343_20.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/344/15/perubahan-dct?_=1554961019 result/caleg/caleg_provinsi_perubahan_344_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/344/16/perubahan-dct?_=1554961021 result/caleg/caleg_provinsi_perubahan_344_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/344/17/perubahan-dct?_=1554961023 result/caleg/caleg_provinsi_perubahan_344_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/344/18/perubahan-dct?_=1554961025 result/caleg/caleg_provinsi_perubahan_344_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/345/15/perubahan-dct?_=1554961200 result/caleg/caleg_provinsi_perubahan_345_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/345/16/perubahan-dct?_=1554961202 result/caleg/caleg_provinsi_perubahan_345_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/345/17/perubahan-dct?_=1554961204 result/caleg/caleg_provinsi_perubahan_345_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/345/18/perubahan-dct?_=1554961206 result/caleg/caleg_provinsi_perubahan_345_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/346/10/perubahan-dct?_=1554961353 result/caleg/caleg_provinsi_perubahan_346_10.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/346/15/perubahan-dct?_=1554961399 result/caleg/caleg_provinsi_perubahan_346_15.json
