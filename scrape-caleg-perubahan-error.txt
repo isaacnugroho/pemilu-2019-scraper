@@ -3382,3 +3382,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3124/16/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3124/17/perubahan-dct?_=1555005196 result/caleg/caleg_kabupaten_perubahan_3124_17.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3124/18/perubahan-dct?_=1555005198 result/caleg/caleg_kabupaten_perubahan_3124_18.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3125/11/perubahan-dct?_=1555005263 result/caleg/caleg_kabupaten_perubahan_3125_11.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3125/15/perubahan-dct?_=1555005314 result/caleg/caleg_kabupaten_perubahan_3125_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3125/16/perubahan-dct?_=1555005316 result/caleg/caleg_kabupaten_perubahan_3125_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3125/17/perubahan-dct?_=1555005354 result/caleg/caleg_kabupaten_perubahan_3125_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3125/18/perubahan-dct?_=1555005356 result/caleg/caleg_kabupaten_perubahan_3125_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3126/11/perubahan-dct?_=1555005439 result/caleg/caleg_kabupaten_perubahan_3126_11.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3126/15/perubahan-dct?_=1555005452 result/caleg/caleg_kabupaten_perubahan_3126_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3126/16/perubahan-dct?_=1555005454 result/caleg/caleg_kabupaten_perubahan_3126_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3126/17/perubahan-dct?_=1555005456 result/caleg/caleg_kabupaten_perubahan_3126_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3126/18/perubahan-dct?_=1555005458 result/caleg/caleg_kabupaten_perubahan_3126_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3127/11/perubahan-dct?_=1555005570 result/caleg/caleg_kabupaten_perubahan_3127_11.json
