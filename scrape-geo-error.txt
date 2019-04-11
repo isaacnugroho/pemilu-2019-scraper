@@ -1,1 +1,4 @@
 https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/72/0?_=1554957523 result/geo/dapil_dpr_geojson_72.json
+https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/798/2?_=1554960727 result/geo/dapil_kabupaten_geojson_798.json
+https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/744/2?_=1554960758 result/geo/dapil_kabupaten_geojson_744.json
+https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/1358/2?_=1554960825 result/geo/dapil_kabupaten_geojson_1358.json
