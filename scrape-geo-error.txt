@@ -1,0 +1,1 @@
+https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/72/0?_=1554957523 result/geo/dapil_dpr_geojson_72.json
