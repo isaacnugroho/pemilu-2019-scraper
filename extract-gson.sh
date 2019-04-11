@@ -1,7 +1,7 @@
 #!/bin/bash
 
 i=0
-for p in result/geo/dapil_*_geojson_*.json; do
+for p in result/geo/dapil_*.json; do
   v=$(echo $p | grep -oE '[0-9]+')
   echo $v
   if [[ i -eq 0 ]]; then
