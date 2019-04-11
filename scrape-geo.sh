@@ -20,13 +20,13 @@ done
 wil=$(jq '.[] | .id' result/dapil/dapil_provinsi_*.json)
 for p in $wil; do
   if [[ ! -f result/geo/dapil_geojson_provinsi_$p.json ]]; then
-    getJson https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/0?_=$(date +%s) result/geo/dapil_geojson_provinsi_$p.json
+    getJson https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/1?_=$(date +%s) result/geo/dapil_geojson_provinsi_$p.json
   fi
 done
 
 wil=$(jq '.[] | .id' result/dapil/dapil_kabupaten_*.json)
 for p in $wil; do
   if [[ ! -f result/geo/dapil_geojson_kabupaten_$p.json ]]; then
-    getJson https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/0?_=$(date +%s) result/geo/dapil_geojson_kabupaten_$p.json
+    getJson https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/2?_=$(date +%s) result/geo/dapil_geojson_kabupaten_$p.json
   fi
 done
