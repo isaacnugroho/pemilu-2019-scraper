@@ -10,9 +10,23 @@ getJson() {
   fi
 }
 
-wil=$(jq '.[] | .id' result/dapil/dapil_*.json)
+wil=$(jq '.[] | .id' result/dapil/dapil_dpr_*.json)
 for p in $wil; do
-  if [[ ! -f result/geo/dapil_geojson_$p.json ]]; then
-    getJson https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/0?_=$(date +%s) result/geo/dapil_geojson_$p.json
+  if [[ ! -f result/geo/dapil_geojson_dpr_$p.json ]]; then
+    getJson https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/0?_=$(date +%s) result/geo/dapil_geojson_dpr_$p.json
+  fi
+done
+
+wil=$(jq '.[] | .id' result/dapil/dapil_provinsi_*.json)
+for p in $wil; do
+  if [[ ! -f result/geo/dapil_geojson_provinsi_$p.json ]]; then
+    getJson https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/0?_=$(date +%s) result/geo/dapil_geojson_provinsi_$p.json
+  fi
+done
+
+wil=$(jq '.[] | .id' result/dapil/dapil_kabupaten_*.json)
+for p in $wil; do
+  if [[ ! -f result/geo/dapil_geojson_kabupaten_$p.json ]]; then
+    getJson https://infopemilu.kpu.go.id/pileg2019/api/geojson/get/$p/0?_=$(date +%s) result/geo/dapil_geojson_kabupaten_$p.json
   fi
 done
