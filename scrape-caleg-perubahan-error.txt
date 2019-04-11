@@ -3427,3 +3427,14 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3004/17/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3004/18/perubahan-dct?_=1555006244 result/caleg/caleg_kabupaten_perubahan_3004_18.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5678/15/perubahan-dct?_=1555006382 result/caleg/caleg_kabupaten_perubahan_5678_15.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5678/16/perubahan-dct?_=1555006384 result/caleg/caleg_kabupaten_perubahan_5678_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5678/17/perubahan-dct?_=1555006386 result/caleg/caleg_kabupaten_perubahan_5678_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5678/18/perubahan-dct?_=1555006420 result/caleg/caleg_kabupaten_perubahan_5678_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5679/6/perubahan-dct?_=1555006487 result/caleg/caleg_kabupaten_perubahan_5679_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5679/15/perubahan-dct?_=1555006562 result/caleg/caleg_kabupaten_perubahan_5679_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5679/16/perubahan-dct?_=1555006565 result/caleg/caleg_kabupaten_perubahan_5679_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5679/17/perubahan-dct?_=1555006567 result/caleg/caleg_kabupaten_perubahan_5679_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5679/18/perubahan-dct?_=1555006569 result/caleg/caleg_kabupaten_perubahan_5679_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5680/15/perubahan-dct?_=1555006661 result/caleg/caleg_kabupaten_perubahan_5680_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5680/16/perubahan-dct?_=1555006663 result/caleg/caleg_kabupaten_perubahan_5680_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5680/17/perubahan-dct?_=1555006665 result/caleg/caleg_kabupaten_perubahan_5680_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5680/18/perubahan-dct?_=1555006667 result/caleg/caleg_kabupaten_perubahan_5680_18.json
