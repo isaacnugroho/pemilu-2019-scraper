@@ -5216,3 +5216,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6534/18/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6534/19/perubahan-dct?_=1555040086 result/caleg/caleg_kabupaten_perubahan_6534_19.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6534/20/perubahan-dct?_=1555040117 result/caleg/caleg_kabupaten_perubahan_6534_20.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6535/6/perubahan-dct?_=1555040181 result/caleg/caleg_kabupaten_perubahan_6535_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6535/15/perubahan-dct?_=1555040219 result/caleg/caleg_kabupaten_perubahan_6535_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6535/16/perubahan-dct?_=1555040221 result/caleg/caleg_kabupaten_perubahan_6535_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6535/17/perubahan-dct?_=1555040223 result/caleg/caleg_kabupaten_perubahan_6535_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6535/18/perubahan-dct?_=1555040225 result/caleg/caleg_kabupaten_perubahan_6535_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6536/9/perubahan-dct?_=1555040380 result/caleg/caleg_kabupaten_perubahan_6536_9.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6536/13/perubahan-dct?_=1555040398 result/caleg/caleg_kabupaten_perubahan_6536_13.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6536/15/perubahan-dct?_=1555040411 result/caleg/caleg_kabupaten_perubahan_6536_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6536/16/perubahan-dct?_=1555040413 result/caleg/caleg_kabupaten_perubahan_6536_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6536/17/perubahan-dct?_=1555040415 result/caleg/caleg_kabupaten_perubahan_6536_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6536/18/perubahan-dct?_=1555040417 result/caleg/caleg_kabupaten_perubahan_6536_18.json
