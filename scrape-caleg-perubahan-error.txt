@@ -4964,3 +4964,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3193/17/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3193/18/perubahan-dct?_=1555029168 result/caleg/caleg_kabupaten_perubahan_3193_18.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3193/19/perubahan-dct?_=1555029170 result/caleg/caleg_kabupaten_perubahan_3193_19.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3193/20/perubahan-dct?_=1555029172 result/caleg/caleg_kabupaten_perubahan_3193_20.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1434/6/perubahan-dct?_=1555029228 result/caleg/caleg_kabupaten_perubahan_1434_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1434/11/perubahan-dct?_=1555029285 result/caleg/caleg_kabupaten_perubahan_1434_11.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1434/13/perubahan-dct?_=1555029291 result/caleg/caleg_kabupaten_perubahan_1434_13.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1434/15/perubahan-dct?_=1555029296 result/caleg/caleg_kabupaten_perubahan_1434_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1434/16/perubahan-dct?_=1555029300 result/caleg/caleg_kabupaten_perubahan_1434_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1434/17/perubahan-dct?_=1555029302 result/caleg/caleg_kabupaten_perubahan_1434_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1434/18/perubahan-dct?_=1555029304 result/caleg/caleg_kabupaten_perubahan_1434_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1434/19/perubahan-dct?_=1555029306 result/caleg/caleg_kabupaten_perubahan_1434_19.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1435/6/perubahan-dct?_=1555029330 result/caleg/caleg_kabupaten_perubahan_1435_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1435/13/perubahan-dct?_=1555029440 result/caleg/caleg_kabupaten_perubahan_1435_13.json
