@@ -5609,3 +5609,8 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3426/20/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3427/15/perubahan-dct?_=1555054833 result/caleg/caleg_kabupaten_perubahan_3427_15.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3427/16/perubahan-dct?_=1555054844 result/caleg/caleg_kabupaten_perubahan_3427_16.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3427/17/perubahan-dct?_=1555054860 result/caleg/caleg_kabupaten_perubahan_3427_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3427/18/perubahan-dct?_=1555054874 result/caleg/caleg_kabupaten_perubahan_3427_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3428/15/perubahan-dct?_=1555055176 result/caleg/caleg_kabupaten_perubahan_3428_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3428/16/perubahan-dct?_=1555055181 result/caleg/caleg_kabupaten_perubahan_3428_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3428/17/perubahan-dct?_=1555055187 result/caleg/caleg_kabupaten_perubahan_3428_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3428/18/perubahan-dct?_=1555055189 result/caleg/caleg_kabupaten_perubahan_3428_18.json
