@@ -6721,3 +6721,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3578/16/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3578/17/perubahan-dct?_=1555093456 result/caleg/caleg_kabupaten_perubahan_3578_17.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3578/18/perubahan-dct?_=1555093458 result/caleg/caleg_kabupaten_perubahan_3578_18.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3578/20/perubahan-dct?_=1555093464 result/caleg/caleg_kabupaten_perubahan_3578_20.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3579/15/perubahan-dct?_=1555093585 result/caleg/caleg_kabupaten_perubahan_3579_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3579/16/perubahan-dct?_=1555093587 result/caleg/caleg_kabupaten_perubahan_3579_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3579/17/perubahan-dct?_=1555093589 result/caleg/caleg_kabupaten_perubahan_3579_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3579/18/perubahan-dct?_=1555093591 result/caleg/caleg_kabupaten_perubahan_3579_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3579/20/perubahan-dct?_=1555093597 result/caleg/caleg_kabupaten_perubahan_3579_20.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3580/15/perubahan-dct?_=1555093714 result/caleg/caleg_kabupaten_perubahan_3580_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3580/16/perubahan-dct?_=1555093716 result/caleg/caleg_kabupaten_perubahan_3580_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3580/17/perubahan-dct?_=1555093718 result/caleg/caleg_kabupaten_perubahan_3580_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3580/18/perubahan-dct?_=1555093720 result/caleg/caleg_kabupaten_perubahan_3580_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3580/20/perubahan-dct?_=1555093726 result/caleg/caleg_kabupaten_perubahan_3580_20.json
