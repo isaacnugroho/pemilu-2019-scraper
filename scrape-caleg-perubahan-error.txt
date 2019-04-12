@@ -6161,3 +6161,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4903/20/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4904/6/perubahan-dct?_=1555071247 result/caleg/caleg_kabupaten_perubahan_4904_6.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4904/7/perubahan-dct?_=1555071278 result/caleg/caleg_kabupaten_perubahan_4904_7.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4904/8/perubahan-dct?_=1555071314 result/caleg/caleg_kabupaten_perubahan_4904_8.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4904/15/perubahan-dct?_=1555071472 result/caleg/caleg_kabupaten_perubahan_4904_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4904/16/perubahan-dct?_=1555071479 result/caleg/caleg_kabupaten_perubahan_4904_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4904/17/perubahan-dct?_=1555071486 result/caleg/caleg_kabupaten_perubahan_4904_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4904/18/perubahan-dct?_=1555071497 result/caleg/caleg_kabupaten_perubahan_4904_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4905/6/perubahan-dct?_=1555071620 result/caleg/caleg_kabupaten_perubahan_4905_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4905/11/perubahan-dct?_=1555071656 result/caleg/caleg_kabupaten_perubahan_4905_11.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4905/15/perubahan-dct?_=1555071680 result/caleg/caleg_kabupaten_perubahan_4905_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4905/16/perubahan-dct?_=1555071683 result/caleg/caleg_kabupaten_perubahan_4905_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4905/17/perubahan-dct?_=1555071686 result/caleg/caleg_kabupaten_perubahan_4905_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4905/18/perubahan-dct?_=1555071688 result/caleg/caleg_kabupaten_perubahan_4905_18.json
