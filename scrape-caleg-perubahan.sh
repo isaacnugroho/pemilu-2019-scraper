@@ -33,7 +33,7 @@ for d in $dapil; do
   done
 done
 
-dapil=$(jq '.[].dapil[].id' result/dapil/dapil_kabupaten_wilayah_*.json)
+dapil=$(jq '.[].dapil[].id' result/dapil/dapil_kabupaten_wilayah_*.json | sort)
 for d in $dapil; do
   for p in $partai; do
     if [[ ! -f result/caleg/caleg_kabupaten_perubahan_${d}_${p}.json ]]; then
