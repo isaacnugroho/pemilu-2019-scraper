@@ -8504,3 +8504,4 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1967/16/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1967/17/perubahan-dct?_=1555119673 result/caleg/caleg_kabupaten_perubahan_1967_17.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1967/18/perubahan-dct?_=1555119703 result/caleg/caleg_kabupaten_perubahan_1967_18.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1967/20/perubahan-dct?_=1555119768 result/caleg/caleg_kabupaten_perubahan_1967_20.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/1968/6/perubahan-dct?_=1555119962 result/caleg/caleg_kabupaten_perubahan_1968_6.json
