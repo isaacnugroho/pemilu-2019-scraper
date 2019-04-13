@@ -9229,3 +9229,4 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5109/19/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5109/20/perubahan-dct?_=1555155518 result/caleg/caleg_kabupaten_perubahan_5109_20.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5110/2/perubahan-dct?_=1555155542 result/caleg/caleg_kabupaten_perubahan_5110_2.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5110/6/perubahan-dct?_=1555155734 result/caleg/caleg_kabupaten_perubahan_5110_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5110/14/perubahan-dct?_=1555156005 result/caleg/caleg_kabupaten_perubahan_5110_14.json
