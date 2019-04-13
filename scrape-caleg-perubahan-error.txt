@@ -9019,3 +9019,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4672/11/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4672/15/perubahan-dct?_=1555143188 result/caleg/caleg_kabupaten_perubahan_4672_15.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4672/16/perubahan-dct?_=1555143190 result/caleg/caleg_kabupaten_perubahan_4672_16.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4672/17/perubahan-dct?_=1555143192 result/caleg/caleg_kabupaten_perubahan_4672_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4672/18/perubahan-dct?_=1555143194 result/caleg/caleg_kabupaten_perubahan_4672_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4672/20/perubahan-dct?_=1555143201 result/caleg/caleg_kabupaten_perubahan_4672_20.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4673/11/perubahan-dct?_=1555143247 result/caleg/caleg_kabupaten_perubahan_4673_11.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4673/15/perubahan-dct?_=1555143263 result/caleg/caleg_kabupaten_perubahan_4673_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4673/16/perubahan-dct?_=1555143265 result/caleg/caleg_kabupaten_perubahan_4673_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4673/17/perubahan-dct?_=1555143267 result/caleg/caleg_kabupaten_perubahan_4673_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4673/18/perubahan-dct?_=1555143269 result/caleg/caleg_kabupaten_perubahan_4673_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4673/20/perubahan-dct?_=1555143357 result/caleg/caleg_kabupaten_perubahan_4673_20.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4674/6/perubahan-dct?_=1555143385 result/caleg/caleg_kabupaten_perubahan_4674_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4674/11/perubahan-dct?_=1555143404 result/caleg/caleg_kabupaten_perubahan_4674_11.json
