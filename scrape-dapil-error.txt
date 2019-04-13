@@ -1,6 +1,0 @@
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/25924/2?_=1555005816 result/dapil/dapil_kabupaten_wilayah_25924.json
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/25833/2?_=1555005817 result/dapil/dapil_kabupaten_wilayah_25833.json
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/25989/2?_=1555005818 result/dapil/dapil_kabupaten_wilayah_25989.json
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/26065/2?_=1555005819 result/dapil/dapil_kabupaten_wilayah_26065.json
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/25886/2?_=1555005820 result/dapil/dapil_kabupaten_wilayah_25886.json
-https://infopemilu.kpu.go.id/pileg2019/api/dapil/25824/2?_=1555005821 result/dapil/dapil_kabupaten_wilayah_25824.json
