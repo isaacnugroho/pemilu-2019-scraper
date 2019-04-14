@@ -609,3 +609,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/8/perubah
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3745/7/perubahan-dct?_=1555283775 result/caleg/caleg_kabupaten_perubahan_3745_7.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/9/perubahan-dct?_=1555283784 result/caleg/caleg_kabupaten_perubahan_5992_9.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3745/8/perubahan-dct?_=1555283806 result/caleg/caleg_kabupaten_perubahan_3745_8.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/11/perubahan-dct?_=1555283857 result/caleg/caleg_kabupaten_perubahan_5992_11.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3745/10/perubahan-dct?_=1555283876 result/caleg/caleg_kabupaten_perubahan_3745_10.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/12/perubahan-dct?_=1555283888 result/caleg/caleg_kabupaten_perubahan_5992_12.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/13/perubahan-dct?_=1555283919 result/caleg/caleg_kabupaten_perubahan_5992_13.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/14/perubahan-dct?_=1555283950 result/caleg/caleg_kabupaten_perubahan_5992_14.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3745/12/perubahan-dct?_=1555283954 result/caleg/caleg_kabupaten_perubahan_3745_12.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/15/perubahan-dct?_=1555283981 result/caleg/caleg_kabupaten_perubahan_5992_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3745/13/perubahan-dct?_=1555283985 result/caleg/caleg_kabupaten_perubahan_3745_13.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/16/perubahan-dct?_=1555284012 result/caleg/caleg_kabupaten_perubahan_5992_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3745/14/perubahan-dct?_=1555284016 result/caleg/caleg_kabupaten_perubahan_3745_14.json
