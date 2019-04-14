@@ -66,3 +66,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6315/12/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/2228/19/perubahan-dct?_=1555202308 result/caleg/caleg_kabupaten_perubahan_2228_19.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6315/20/perubahan-dct?_=1555202355 result/caleg/caleg_kabupaten_perubahan_6315_20.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/2336/1/perubahan-dct?_=1555202369 result/caleg/caleg_kabupaten_perubahan_2336_1.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/2336/12/perubahan-dct?_=1555202487 result/caleg/caleg_kabupaten_perubahan_2336_12.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/2336/13/perubahan-dct?_=1555202518 result/caleg/caleg_kabupaten_perubahan_2336_13.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/2336/14/perubahan-dct?_=1555202549 result/caleg/caleg_kabupaten_perubahan_2336_14.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6314/16/perubahan-dct?_=1555202552 result/caleg/caleg_kabupaten_perubahan_6314_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/2336/15/perubahan-dct?_=1555202580 result/caleg/caleg_kabupaten_perubahan_2336_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6314/17/perubahan-dct?_=1555202583 result/caleg/caleg_kabupaten_perubahan_6314_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6314/19/perubahan-dct?_=1555202644 result/caleg/caleg_kabupaten_perubahan_6314_19.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/2336/18/perubahan-dct?_=1555202674 result/caleg/caleg_kabupaten_perubahan_2336_18.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/6313/1/perubahan-dct?_=1555202705 result/caleg/caleg_kabupaten_perubahan_6313_1.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/2336/19/perubahan-dct?_=1555202705 result/caleg/caleg_kabupaten_perubahan_2336_19.json
