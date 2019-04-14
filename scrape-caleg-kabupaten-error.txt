@@ -174,3 +174,6 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5949/18/dct?_=
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3921/19/dct?_=1555215922 result/caleg/caleg_kabupaten_3921_19.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5948/15/dct?_=1555216494 result/caleg/caleg_kabupaten_5948_15.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3922/17/dct?_=1555216506 result/caleg/caleg_kabupaten_3922_17.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5948/16/dct?_=1555216530 result/caleg/caleg_kabupaten_5948_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3922/19/dct?_=1555216593 result/caleg/caleg_kabupaten_3922_19.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3923/4/dct?_=1555216828 result/caleg/caleg_kabupaten_3923_4.json
