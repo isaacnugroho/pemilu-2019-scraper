@@ -733,3 +733,6 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4069/3/perubah
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5939/10/perubahan-dct?_=1555317379 result/caleg/caleg_kabupaten_perubahan_5939_10.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4069/4/perubahan-dct?_=1555317418 result/caleg/caleg_kabupaten_perubahan_4069_4.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5939/11/perubahan-dct?_=1555317451 result/caleg/caleg_kabupaten_perubahan_5939_11.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4069/15/perubahan-dct?_=1555318035 result/caleg/caleg_kabupaten_perubahan_4069_15.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/4069/16/perubahan-dct?_=1555318091 result/caleg/caleg_kabupaten_perubahan_4069_16.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5938/4/perubahan-dct?_=1555318110 result/caleg/caleg_kabupaten_perubahan_5938_4.json
