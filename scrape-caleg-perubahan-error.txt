@@ -620,3 +620,13 @@ https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3745/13/peruba
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5992/16/perubahan-dct?_=1555284012 result/caleg/caleg_kabupaten_perubahan_5992_16.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3745/14/perubahan-dct?_=1555284016 result/caleg/caleg_kabupaten_perubahan_3745_14.json
 https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3787/2/perubahan-dct?_=1555286254 result/caleg/caleg_kabupaten_perubahan_3787_2.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5983/4/perubahan-dct?_=1555286278 result/caleg/caleg_kabupaten_perubahan_5983_4.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3787/3/perubahan-dct?_=1555286285 result/caleg/caleg_kabupaten_perubahan_3787_3.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5983/6/perubahan-dct?_=1555286342 result/caleg/caleg_kabupaten_perubahan_5983_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5983/7/perubahan-dct?_=1555286373 result/caleg/caleg_kabupaten_perubahan_5983_7.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3787/6/perubahan-dct?_=1555286379 result/caleg/caleg_kabupaten_perubahan_3787_6.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5983/9/perubahan-dct?_=1555286437 result/caleg/caleg_kabupaten_perubahan_5983_9.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3787/8/perubahan-dct?_=1555286443 result/caleg/caleg_kabupaten_perubahan_3787_8.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/5983/10/perubahan-dct?_=1555286468 result/caleg/caleg_kabupaten_perubahan_5983_10.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3787/9/perubahan-dct?_=1555286474 result/caleg/caleg_kabupaten_perubahan_3787_9.json
+https://infopemilu.kpu.go.id/pileg2019/pencalonan/pengajuan-calon/3787/10/perubahan-dct?_=1555286505 result/caleg/caleg_kabupaten_perubahan_3787_10.json
